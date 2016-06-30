@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package hello;
+
+option java_package = "proto.hello";
+
+message Hello {
+	string name = 1;
+	int32 number = 2;
+}
+
