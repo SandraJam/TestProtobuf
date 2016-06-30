@@ -20,7 +20,7 @@ android {
     }
     sourceSets {
         main {
-            wire.srcDirs = [System.getenv("GOPATH")+"/src/ProtoRepository/"]
+            wire.srcDirs = ["../../../Go/ProtoRepository/"]
         }
     }
 }
