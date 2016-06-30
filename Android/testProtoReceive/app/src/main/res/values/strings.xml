@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testProtoReceive</string>
+    <string name="go">Go</string>
+    <string name="mot">Mot:</string>
+</resources>

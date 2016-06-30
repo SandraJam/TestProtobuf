@@ -1,0 +1,14 @@
+Android/testProtoReceive/*.iml
+Android/testProtoReceive/.gradle
+Android/testProtoReceive/local.properties
+Android/testProtoReceive/.idea
+Android/testProtoReceive/.DS_Store
+Android/testProtoReceive/build
+Android/testProtoReceive/captures
+Android/TestProtoReceiveWithoutWire/*.iml
+Android/TestProtoReceiveWithoutWire/.gradle
+Android/TestProtoReceiveWithoutWire/local.properties
+Android/TestProtoReceiveWithoutWire/.idea
+Android/TestProtoReceiveWithoutWire/.DS_Store
+Android/TestProtoReceiveWithoutWire/build
+Android/TestProtoReceiveWithoutWire/captures
